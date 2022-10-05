@@ -1,0 +1,1 @@
+﻿И я закрываю TestClient "Client"
